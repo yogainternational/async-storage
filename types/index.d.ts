@@ -1,6 +1,6 @@
 // CREDITS: This types are based on the original work made by all the people who contributed to @types/react-native
 
-declare module '@react-native-community/async-storage' {
+declare module '@yi/async-storage' {
   /**
    * AsyncStorage is a simple, unencrypted, asynchronous, persistent, key-value storage
    * system that is global to the app.  It should be used instead of LocalStorage.
